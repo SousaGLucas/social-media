@@ -1,0 +1,13 @@
+POST http://localhost:3000/api/v1/social-media/users
+Content-Type: application/json
+
+{
+  "name": "Lucas",
+  "surname": "Sousa",
+  "account_name": "sousaglucas3",
+  "gender": "male",
+  "email": "lucas3@gmail.com",
+  "password": "12345678"
+}
+
+###
